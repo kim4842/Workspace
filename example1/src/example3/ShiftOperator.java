@@ -21,6 +21,7 @@ public class ShiftOperator {
 		// 논리 시프트(>>>)
 		System.out.println(3 >>> 1);
 		System.out.println(-3 >>> 31);
+		//다시
 	}
 
 }
